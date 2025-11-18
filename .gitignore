@@ -1,3 +1,7 @@
 build/
+build-vs/
+bin/
+out/
 .vscode/
+.vs/
 .hidden/
